@@ -4,7 +4,7 @@
 * [Duckietown Project](https://github.com/duckietown/Software)
 * [Adafruit DC Motor HAT](https://www.adafruit.com/product/2348)
 
-donkey car commit [ec7ea7a9d]https://github.com/autorope/donkeycar/commit/ec7ea7a9d7687ba5bb0d9daf4c8dc23f75549d03
+donkey car commit [ec7ea7a9d](https://github.com/autorope/donkeycar/commit/ec7ea7a9d7687ba5bb0d9daf4c8dc23f75549d03)
 
 ## Install
 
